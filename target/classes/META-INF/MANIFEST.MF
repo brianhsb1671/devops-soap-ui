@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: devops-devco
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: johan.beltran
+Implementation-Vendor-Id: com.devcognitio.pokemon
+Build-Jdk: 1.8.0_111
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/devops-devco
+Created-By: Maven Integration for Eclipse
+
